@@ -14,6 +14,8 @@
 + :heavy_check_mark: HTML5, semantic layout, BEM metodlogy
 + :heavy_check_mark: 	CSS3, grid layout, flexbox, Bootstrap, Materialize;
 + :heavy_check_mark: 	JavaScript (ES6, ESnext, DOM, events), jQuery;
++ :heavy_check_mark: 	Work with APi, Rest metodology, axios;
++ :heavy_check_mark:  ReactJS, Redux
 + :heavy_check_mark: 	C#, OOP principles;
 + :heavy_check_mark: 	Basic knowledge of Node.js, NPM;
 
@@ -55,4 +57,4 @@ Kyiv National University of Culture and Arts
 
 
 
-### FEBRUARY 2020
+### MARCH 2020
